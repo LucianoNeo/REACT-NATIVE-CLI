@@ -6,8 +6,6 @@ import styles from './styles';
 function Home() {
 
     return (
-
-
         <View style={styles.container}>
             <StatusBar
                 translucent
@@ -29,11 +27,6 @@ function Home() {
 
             </View>
         </View>
-
-
     );
 };
-
-
-
 export default Home;
